@@ -1,1 +1,3 @@
-# static website files for duckodyssey.com
+# This site
+
+Static website files for duckodyssey.com
